@@ -11,15 +11,18 @@ C'è ancora molto da fare ed è un lavoro che non riuscirei a portare a termine 
 L'aiuto della community sarà essenziale.
 
 ### Lista e descrizione dei file
-1. <b>README.md</b> - <i>questo file</i>
-2. <b>modinit.lua</b> - <i>file di configurazione della mod</i>
-3. <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
-4. <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
+* <b>README.md</b> - <i>questo file</i>
+* <b>modinit.lua</b> - <i>file di configurazione della mod</i>
+* <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
+* <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
 
 ### Struttura del file <i>it.po</i>
 Ogni oggetto di testo del gioco è descritto nel file 4 stringhe, come nell'esempio seguente:
-* #. ACHIEVEMENT.ARCHENEMY.DESC
-* msgctxt "ACHIEVEMENT.ARCHENEMY.DESC"
-* msgid "Get {1} people to hate you in campaign or brawl."
-* msgstr "Fai in modo che {1} {1*persona|persone} ti {1*odi|odino} in una campagna o in una rissa."
+1. #. ACHIEVEMENT.ARCHENEMY.DESC
+2. msgctxt "ACHIEVEMENT.ARCHENEMY.DESC"
+3. msgid "Get {1} people to hate you in campaign or brawl."
+4. msgstr "Fai in modo che {1} {1*persona|persone} ti {1*odi|odino} in una campagna o in una rissa."
 
+Le stringhe #1 e #2 <u>non devono</u> essere modificate durante la traduzione. La stringhe #3 (msgid) e #4 (msgstr) corrispondono rispettivamente al testo originale in inglese ed al tradotto. Il testo ed i numeri presenti tra parentesi graffe rapprentano le variabili di gioco. Nell'esempio sopra riportato la stringa #4 potrà assumere la seguente sintassi a seconda del numero di persone che dovremo fare in modi ci odino:
+* frase al singolare, <i>"Fai in modo che <u>1 persona</u> ti <u>odi</u> in una campagna o in una rissa."</i>
+* frase al plurale, <i>"Fai in modo che <u>4 persone</u> ti <u>odino</u> in una campagna o in una rissa."</i>
