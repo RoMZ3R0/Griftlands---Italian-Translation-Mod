@@ -33,5 +33,7 @@ Prendiamo un altro esempio:
 3. <code>msgid "Apply {1} {SCORCHED} and {2} {BURN} to <#UPGRADE>all enemies.</>"</code>
 4. <code>msgstr "Applica {1} {SCORCHED} e {2} {BURN} a <#UPGRADE>tutti i nemici.</>"</code>
 
+In alcune stringhe possono essere presenti variabili di gioco che si riferiscono ad abilità (es. <code>{SCORCHED}</code> e <code>{BURN}</code>), nonché tag di formattazione (<code><#UPGRADE> </></code>).
+  
 ### Per una traduzione coerente
 Collaborare a più mani ad una traduzione può essere molto complicato, c'è il rischio di adottare stili ed idee 
