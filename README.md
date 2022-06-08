@@ -16,5 +16,6 @@ L'aiuto della community sarà essenziale.
 * <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
 * <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
 
-### Come tradurre?
+### Struttura del file <i>it.po</i>
+Ogni elemento testuale del gioco 
 
