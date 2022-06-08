@@ -17,6 +17,9 @@ L'aiuto della community sarà essenziale.
 * <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
 
 ### Struttura del file <i>it.po</i>
-Ogni oggetto di testo del gioco è descritto nel file <i>it.po</i> da 4 stringhe:
-1. aaa
+Ogni oggetto di testo del gioco è descritto nel file <i>it.po</i> da 4 stringhe, come nell'esempio seguente:
+<code>#. ACHIEVEMENT.ARCHENEMY.DESC
+msgctxt "ACHIEVEMENT.ARCHENEMY.DESC"
+msgid "Get {1} people to hate you in campaign or brawl."
+msgstr "Fai in modo che {1} {1*persona|persone} ti {1*odi|odino} in una campagna o in una rissa."</code>
 
