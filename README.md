@@ -101,7 +101,9 @@ In questa fase, l'idea è di tradurre in italiano solo alcuni elementi del gioco
 34. - [x] MODIFIER
     * - [x] DESC
     * - [ ] NAME
+
 (elenco in progress...)
   
 Chiunque è interessato a collaborare, mi contatti anche su steam https://steamcommunity.com/id/romz/
-  Lo aggiungerò ai collaboratori alla mod ed ovviamente ai ringraziamenti.
+
+Lo aggiungerò ai collaboratori alla mod ed ovviamente ai ringraziamenti.
