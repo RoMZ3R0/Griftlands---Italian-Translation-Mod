@@ -17,5 +17,6 @@ L'aiuto della community sarà essenziale.
 * <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
 
 ### Struttura del file <i>it.po</i>
-Ogni elemento testuale del gioco 
+Ogni oggetto di testo del gioco è descritto nel file <i>it.po</i> da 4 stringhe:
+1. 
 
