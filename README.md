@@ -37,13 +37,13 @@ In alcune stringhe possono essere presenti variabili di gioco che si riferiscono
   
 ### Una traduzione coerente
 Collaborare a più mani ad una traduzione può essere molto complicato: il rischio di adottare stili diversi da persona a persona è concreto.
-Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che possano definire una strada iniziale da percorrere.
+Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che per ora possano definire una strada comune da percorrere.
 Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie e sottocategorie. Ad esempio, nella stringa <code>#. ACHIEVEMENT.ARCHENEMY.DESC</code>:
 * ACHIEVEMENT, categoria
 * ARCHENEMY, nome dell'oggetto
 * DESC, sottocategoria
 
-Per ora, limitiamoci a definire quali categoria è essenziale tradurre e quali manterremo in inglese
+La mia idea è di tradurre in italiano solo alcuni elementi del gioco. 
 1. ACHIEVEMENT
-  - [x] DESC
-  - [ ] NAME
+    *- [x] DESC (da tradurre)
+    *- [ ] NAME (da non tradurre)
