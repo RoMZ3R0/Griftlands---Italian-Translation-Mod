@@ -76,5 +76,32 @@ In questa fase, l'idea è di tradurre in italiano solo alcuni elementi del gioco
 14. - [ ] CODEX (di secondaria importanza per ora)
 15. - [x] CONSTANTS
 16. - [x] CONTROLS
-17. - [ ] CONVO (sono presenti alcune variabili erroneamente tradotte dallo script, dovrò correggerle prima di pernsare a tradurle)
-18. - 
+17. - [x] CONVO (sono presenti alcune variabili erroneamente tradotte dallo script, da fixare)
+18. - [x] CONVO_COMMON
+19. - [x] CONVO_OPTION
+20. - [x] DAILY_RUN_SCORE
+21. - [x] ENCOUNTER
+22. - [x] FACTION
+    * - [x] DESC
+    * - [ ] NAME
+23. - [x] FEEDBACK
+24. - [x] GENDER
+25. - [x] GENDER_NOUNS
+26. - [x] GENERAL
+27. - [x] GRAFT
+    * - [x] DESC
+    * - [ ] NAME
+29. - [x] GRAFT_TYPES
+30. - [x] GRIFT
+31. - [x] LOCATION
+    * - [x] DESC
+    * - [ ] NAME
+32. - [x] LOCMACROS
+33. - [x] LOREM
+34. - [x] MODIFIER
+    * - [x] DESC
+    * - [ ] NAME
+(elenco in progress...)
+  
+Chiunque è interessato a collaborre, mi contatti anche su steam https://steamcommunity.com/id/romz/
+  Lo aggiungerò ai collaboratori alla mod ed ovviamente ai ringraziamenti.
