@@ -10,8 +10,11 @@ La prima versione della traduzione presentava molti errori ed ho dovuto applicar
 C'è ancora molto da fare ed è un lavoro che non riuscirei a portare a termine da solo.
 L'aiuto della community sarà essenziale.
 
-### Lista dei file e descrizione
+### Lista e descrizione dei file
 * <b>README.md</b> - <i>questo file</i>
 * <b>modinit.lua</b> - <i>file di configurazione della mod</i>
 * <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
-* <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>  
+* <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
+
+### Come tradurre?
+
