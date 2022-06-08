@@ -45,5 +45,5 @@ Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie 
 
 Per ora, limitiamoci a definire quali categoria è essenziale tradurre e quali manterremo in inglese
 1. ACHIEVEMENT
-  [x] DESC
-  [] NAME
+  - [x] DESC
+  - [ ] NAME
