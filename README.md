@@ -18,5 +18,5 @@ L'aiuto della community sarà essenziale.
 
 ### Struttura del file <i>it.po</i>
 Ogni oggetto di testo del gioco è descritto nel file <i>it.po</i> da 4 stringhe:
-1. 
+*1  
 
