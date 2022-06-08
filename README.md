@@ -11,15 +11,15 @@ C'è ancora molto da fare ed è un lavoro che non riuscirei a portare a termine 
 L'aiuto della community sarà essenziale.
 
 ### Lista e descrizione dei file
-* <b>README.md</b> - <i>questo file</i>
-* <b>modinit.lua</b> - <i>file di configurazione della mod</i>
-* <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
-* <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
+1. <b>README.md</b> - <i>questo file</i>
+2. <b>modinit.lua</b> - <i>file di configurazione della mod</i>
+3. <b>icon.png</b> - <i>icona della mod per lo Steam Workshop</i>
+4. <b>it.po</b> - <i>file contenente il testo del gioco (codifica UTF-8)</i>
 
 ### Struttura del file <i>it.po</i>
 Ogni oggetto di testo del gioco è descritto nel file 4 stringhe, come nell'esempio seguente:
-1. #. ACHIEVEMENT.ARCHENEMY.DESC
-2. msgctxt "ACHIEVEMENT.ARCHENEMY.DESC"
-3. msgid "Get {1} people to hate you in campaign or brawl."
-4. msgstr "Fai in modo che {1} {1*persona|persone} ti {1*odi|odino} in una campagna o in una rissa."
+* #. ACHIEVEMENT.ARCHENEMY.DESC
+* msgctxt "ACHIEVEMENT.ARCHENEMY.DESC"
+* msgid "Get {1} people to hate you in campaign or brawl."
+* msgstr "Fai in modo che {1} {1*persona|persone} ti {1*odi|odino} in una campagna o in una rissa."
 
