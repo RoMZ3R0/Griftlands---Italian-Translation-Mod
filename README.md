@@ -45,5 +45,5 @@ Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie 
 
 La mia idea è di tradurre in italiano solo alcuni elementi del gioco. 
 1. ACHIEVEMENT
-  * - [x] DESC (da tradurre)
-  * - [ ] NAME (da non tradurre)
+    * - [x] DESC (da tradurre)
+    * - [ ] NAME (da non tradurre)
