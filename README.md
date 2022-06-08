@@ -47,4 +47,12 @@ La mia idea è di tradurre in italiano solo alcuni elementi del gioco.
 1. - [x] ACHIEVEMENT
     * - [x] DESC (da tradurre, modificare solo la stringa #4, ossia msgstr)
     * - [ ] NAME (da non tradurre, la stringa #4 msgstr deve essere identica alla stringa #3 msgid)
-2. - [x] ADVANCEMENT 
+2. - [x] ADVANCEMENT
+3. - [x] AGENT
+4. - [x] AREA_DESC
+5. - [x] ASPECT
+    * - [x] BATTLE_CARD_INFO
+    * - [x] DESC
+    * - [x] NAME
+    * - [x] NEGOTIATION_CARD_INFO
+6. - [x] ATTACK
