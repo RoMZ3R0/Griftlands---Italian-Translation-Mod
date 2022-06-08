@@ -1,5 +1,6 @@
 # Griftlands - Italian Translation Mod
 <i>Traduzione fan-made del gioco di carte Griftlands (Klei) sviluppata per il Workshop di Steam.</i>
+
 https://steamcommunity.com/sharedfiles/filedetails/?id=2817357554
 
 ### Una breve introduzione...
