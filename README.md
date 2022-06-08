@@ -1,2 +1,6 @@
 # Griftlands - Italian Translation Mod
-<i>Traduzione fan-made del gioco roguelite di carte Griflands della Klei.</i>
+
+#####Descrizione
+Traduzione fan-made del gioco di carte Griftlands, un roguelite sviluppato dalla software house Klei.
+
+La traduzione è st
