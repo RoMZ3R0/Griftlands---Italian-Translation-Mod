@@ -33,7 +33,10 @@ Prendiamo un altro esempio:
 3. <code>msgid "Apply {1} {SCORCHED} and {2} {BURN} to <#UPGRADE>all enemies.</>"</code>
 4. <code>msgstr "Applica {1} {SCORCHED} e {2} {BURN} a <#UPGRADE>tutti i nemici.</>"</code>
 
-In alcune stringhe possono essere presenti variabili di gioco che si riferiscono ad abilità (es. <code>{SCORCHED}</code> e <code>{BURN}</code>), nonché tag di formattazione (<code><#UPGRADE> </></code>).
+In alcune stringhe possono essere presenti variabili di gioco che si riferiscono ad abilità (es. <code>{SCORCHED}</code> e <code>{BURN}</code>), nonché tag di formattazione del testo(<code><#UPGRADE> </></code>). Le variabili in questione non devono essere modificate/tradotte. Relativamente alle tag, solo il testo compreso tra essere può essere tradotto (es. <i>all enemies.</i> tradotto in <i>tutti i nemici.</i>). Durante la traduzione automatica alcune variabili e tag sono state compromesse. Dovrei averle fixate tutte o quasi.
   
-### Per una traduzione coerente
-Collaborare a più mani ad una traduzione può essere molto complicato, c'è il rischio di adottare stili ed idee 
+### Una traduzione coerente
+Collaborare a più mani ad una traduzione può essere molto complicato: il rischio di adottare stili diversi da persona a persona è concreto.
+Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che possano definire una strada iniziale da percorrere.
+Gli elementi del file <i>it.po</i> possono essere distinti di diverse macro categorie:
+*
