@@ -38,12 +38,13 @@ In alcune stringhe possono essere presenti variabili di gioco che si riferiscono
 ### Una traduzione coerente
 Collaborare a più mani ad una traduzione può essere molto complicato: il rischio di adottare stili diversi da persona a persona è concreto.
 Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che per ora possano definire una strada comune da percorrere.
-Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie e sottocategorie. Ad esempio, nella stringa <code>#. ACHIEVEMENT.ARCHENEMY.DESC</code>:
+Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie ed, a volte, in sottocategorie. Ad esempio, nella stringa <code>#. ACHIEVEMENT.ARCHENEMY.DESC</code>:
 * ACHIEVEMENT, categoria
 * ARCHENEMY, nome dell'oggetto
 * DESC, sottocategoria
 
 La mia idea è di tradurre in italiano solo alcuni elementi del gioco. 
-1. ACHIEVEMENT
+1. - [x] ACHIEVEMENT
     * - [x] DESC (da tradurre, modificare solo la stringa #4, ossia msgstr)
     * - [ ] NAME (da non tradurre, la stringa #4 msgstr deve essere identica alla stringa #3 msgid)
+2. - [x] ADVANCEMENT 
