@@ -38,5 +38,11 @@ In alcune stringhe possono essere presenti variabili di gioco che si riferiscono
 ### Una traduzione coerente
 Collaborare a più mani ad una traduzione può essere molto complicato: il rischio di adottare stili diversi da persona a persona è concreto.
 Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che possano definire una strada iniziale da percorrere.
-Gli elementi del file <i>it.po</i> possono essere distinti di diverse macro categorie:
-*
+Gli elementi del file <i>it.po</i> possono essere distinti di diverse categorie e sottocategorie. Ad esempio, nella stringa ACHIEVEMENT.ARCHENEMY.DESC:
+* ACHIEVEMENT, categoria
+* ARCHENEMY, nome dell'oggetto
+* DESC, sottocategoria
+
+Definiamo quindi le regole per ogni categoria e sottocategoria:
+1. ACHIEVEMENT
+  1. 
