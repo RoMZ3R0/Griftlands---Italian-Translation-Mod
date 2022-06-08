@@ -26,3 +26,12 @@ Ogni oggetto di testo del gioco è descritto nel file 4 stringhe, come nell'esem
 Le stringhe #1 e #2 <u>non devono</u> essere modificate durante la traduzione. La stringhe #3 (msgid) e #4 (msgstr) corrispondono rispettivamente al testo originale in inglese ed a quello tradotto. Il testo ed i numeri presenti tra parentesi graffe rapprentano le variabili di gioco. Nell'esempio sopra riportato la stringa #4 potrà assumere la seguente sintassi a seconda del numero di persone che dovremo fare in modo ci odino:
 * frase al singolare, <i>"Fai in modo che 1 persona ti odi in una campagna o in una rissa."</i>
 * frase al plurale, <i>"Fai in modo che 4 persone ti odino in una campagna o in una rissa."</i>
+
+Prendiamo un altro esempio:
+1. <code>#. ATTACK.ACCELERANT_PLUS2.DESC</code>
+2. <code>msgctxt "ATTACK.ACCELERANT_PLUS2.DESC"</code>
+3. <code>msgid "Apply {1} {SCORCHED} and {2} {BURN} to <#UPGRADE>all enemies.</>"</code>
+4. <code>msgstr "Applica {1} {SCORCHED} e {2} {BURN} a <#UPGRADE>tutti i nemici.</>"</code>
+
+### Per una traduzione coerente
+Collaborare a più mani ad una traduzione può essere molto complicato, c'è il rischio di adottare stili ed idee 
