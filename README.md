@@ -43,16 +43,38 @@ Gli elementi del file <i>it.po</i> possono essere distinti in diverse categorie 
 * ARCHENEMY, nome dell'oggetto
 * DESC, sottocategoria
 
-La mia idea è di tradurre in italiano solo alcuni elementi del gioco. 
+In questa fase, l'idea è di tradurre in italiano solo alcuni elementi del gioco. 
 1. - [x] ACHIEVEMENT
     * - [x] DESC (da tradurre, modificare solo la stringa #4, ossia msgstr)
     * - [ ] NAME (da non tradurre, la stringa #4 msgstr deve essere identica alla stringa #3 msgid)
-2. - [x] ADVANCEMENT
+2. - [x] ADVANCEMENT (se non c'è distrinzione in sottocategorie è tutto da tradurre)
 3. - [x] AGENT
 4. - [x] AREA_DESC
 5. - [x] ASPECT
-    * - [x] BATTLE_CARD_INFO
-    * - [x] DESC
-    * - [x] NAME
-    * - [x] NEGOTIATION_CARD_INFO
 6. - [x] ATTACK
+    * - [x] DESC
+    * - [ ] FLAVOUR
+    * - [ ] NAME
+7. - [x] BATTLE_FEATURE
+    * - [x] DESC
+    * - [ ] NAME
+8. - [x] CALENDAR
+9. - [x] CARD
+    * - [x] DESC
+    * - [ ] FLAVOUR
+    * - [ ] NAME
+10. - [x] CARD_ENGINE
+11. - [x] CHARACTER
+    * - [x] TITLE
+    * - [ ] NAME
+    * - [ ] altre singole sottocategorie
+    * - [x] BIO
+12. - [x] CHARACTER_SKIN
+    * - [x] BIO
+    * - [ ] NAME
+13. - [x] CHOOSE_CARDS_POPUP
+14. - [ ] CODEX (di secondaria importanza per ora)
+15. - [x] CONSTANTS
+16. - [x] CONTROLS
+17. - [ ] CONVO (sono presenti alcune variabili erroneamente tradotte dallo script, dovrò correggerle prima di pernsare a tradurle)
+18. - 
