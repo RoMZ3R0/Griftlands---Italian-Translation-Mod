@@ -102,7 +102,14 @@ In questa fase, l'idea è di tradurre in italiano solo alcuni elementi del gioco
 34. - [x] MODIFIER
     * - [x] DESC
     * - [ ] NAME
-
+35. - [ ] NAMEPOOL
+36. - [x] NEGOTIATION_FEATURE
+    * - [x] DESC
+    * - [ ] NAME
+37. - [x] NOTIFICATION
+38. - [x] OPINION
+39. - [x] OUTFIT
+40. - [x] PLAYER_ACT
 (elenco in progress...)
   
 Chiunque è interessato a collaborare, mi contatti anche su steam https://steamcommunity.com/id/romz/
