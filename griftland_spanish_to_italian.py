@@ -100,8 +100,8 @@ def translate_line(line):
         return line  # Return the original text in case of an error
 
 # File processing: reading and translating
-with open("es_v18_corretto.po", encoding="utf-8") as source_file:
-    with open("it_v19.po", "w", encoding="utf-8") as target_file:
+with open("es.po", encoding="utf-8") as source_file:
+    with open("it.po", "w", encoding="utf-8") as target_file:
         for line in source_file:
             if line.startswith("msgstr "):  # Process lines starting with "msgstr"
                 original_text = line.split("msgstr ", 1)[1].strip()  # Extract the original text
