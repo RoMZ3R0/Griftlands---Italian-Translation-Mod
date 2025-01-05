@@ -56,6 +56,6 @@ In alcune stringhe possono essere presenti variabili di gioco che si riferiscono
 ### Una traduzione coerente
 Collaborare a più mani ad una traduzione può essere molto complicato: il rischio di adottare stili diversi da persona a persona è concreto. Cercherò quindi di definire alcune regole, di certo non insidacabili, ma che per ora possano definire una strada comune da percorrere.
 
-Chiunque è interessato a collaborare, mi contatti anche su steam [https://steamcommunity.com/id/romz/](https://steamcommunity.com/id/romz/).
+Chiunque sia interessato a collaborare, mi contatti anche su steam [https://steamcommunity.com/id/romz/](https://steamcommunity.com/id/romz/).
 
 Lo aggiungerò ai collaboratori della mod ed ovviamente ai ringraziamenti.
