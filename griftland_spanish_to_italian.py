@@ -111,7 +111,7 @@ with open("es_v18_corretto.po", encoding="utf-8") as source_file:
                 translated_text = translated_text.replace("\\n", "\n").replace("\n", "\\n")
                 
                 # Update the line with the translated text
-                line = f'msgstr_ITA "{translated_text}"\n'
+                line = f'msgstr "{translated_text}"\n'
                 time.sleep(4)  # Pause to avoid hitting the API rate limit
 
             print(line.strip())  # Print the processed line
