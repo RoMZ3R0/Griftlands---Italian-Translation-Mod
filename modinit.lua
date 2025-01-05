@@ -31,7 +31,7 @@ return
     alias = "ITALIANO",
     OnPreLoad = OnPreLoad,
 
-    title = "Italian Translation Mod (Alpha 0.3)",
-    description = "The translation was made from the Spanish version through the use of an online translator. Therefore, any errors are the result of the translation approach used. With suggestions from the community, the mod will be updated, but it will take some time. I ask for your patience.",
+    title = "Traduzione ITA (Beta 0.4)",
+    description = "Traduzione dallo spagnolo mediante Gemini 1.5 Flash (LLM). La traduzione è parziale:\n- il non tradotto è in inglese\n- il tradotto è in test.\nStato attuale della traduzione: 52 %.",
     previewImagePath = "icon.png",
 }
