@@ -97,7 +97,7 @@ def translate_line(line):
         return clean_translated_text(translated_text)
     except Exception as e:
         print(f"Error while translating line: {line}\nError: {e}")
-        return line  # Return the original text in case of an error
+        exit(1)
 
 # File processing: reading and translating
 with open("es.po", encoding="utf-8") as source_file:
