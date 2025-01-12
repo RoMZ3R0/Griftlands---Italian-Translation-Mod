@@ -31,7 +31,7 @@ return
     alias = "ITALIANO",
     OnPreLoad = OnPreLoad,
 
-    title = "Traduzione ITA (Beta 0.7)",
-    description = "Traduzione dallo spagnolo mediante Gemini 1.5 Flash (LLM). La traduzione è parziale:\n- il non tradotto è in inglese\n- il tradotto è in test.\nStringhe tradotte: 72 %.",
+    title = "Traduzione ITA (Beta 0.8)",
+    description = "Traduzione dallo spagnolo mediante Gemini 1.5 Flash (LLM). La traduzione è parziale:\n- il non tradotto è in inglese\n- il tradotto è in test.\nStringhe tradotte: 78 %.",
     previewImagePath = "icon.png",
 }
